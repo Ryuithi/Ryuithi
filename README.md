@@ -1,6 +1,8 @@
-### Olá! Eu sou o Ryuithi ✋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ryuithitakamori)  
-![Ryu GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryuithi&show_icons=true&theme=dracula)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ryuithi+Takamori+Oliveira;I'm+19+years+old;I+am+from+SP;I+study+analysis+and+systems+development+at+Fiap;Be+Welcome!+:%29)](https://git.io/typing-svg)
+ 
+ ![Ryu GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryuithi&show_icons=true&theme=gotham)
 
 ## Tecnologias do meu dia a dia
 
@@ -13,7 +15,10 @@
 
 "Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom" 💻
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ryuithi}/count.svg" /></p> 
+<br></div>
 
 
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
