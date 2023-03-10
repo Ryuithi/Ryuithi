@@ -2,7 +2,12 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ryuithi+Takamori+Oliveira;I'm+19+years+old;I+am+from+SP;I+study+analysis+and+systems+development+at+Fiap;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
- ![Ryu GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryuithi&show_icons=true&theme=gotham)
+ 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ryuithi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+</div>  
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ryuithi&theme=gotham)
 
 ## Tecnologias do meu dia a dia
 
